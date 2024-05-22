@@ -1,2 +1,1 @@
-# mu_online
-MU online is a website where faculties of MU can upload their recorded courses and students can get help from it
+Developed for Metropolitan University, MU Online streamlines course registration and access, allowing anyone to teach their own courses, fostering a diverse and collaborative educational environment.
