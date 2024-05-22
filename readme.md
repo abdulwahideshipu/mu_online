@@ -15,7 +15,6 @@ The MU Online platform was developed using HTML, CSS, JavaScript, and PHP for th
 * Comments
 * Upload Content
 * Add Playlist
-* Downloading Copy of Result
 
 ## Tools Used
 The MU Online project utilized several essential tools to ensure robust performance and a seamless user experience. Apache served as the web server, providing a stable and secure platform for hosting the website. MySQLServer was employed for database management, enabling efficient storage and retrieval of user and course data. Development was carried out using VS Code, a versatile and powerful coding environment for HTML, CSS, JavaScript, and PHP. Google Chrome was used as the primary web browser for testing and debugging, ensuring compatibility and smooth performance across different devices. These tools collectively contributed to the successful development and deployment of MU Online.
